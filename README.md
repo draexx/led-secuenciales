@@ -1,4 +1,4 @@
-# Arduino LED Secuencia Ejemplo
+# Arduino LED Secuencia Project
 
 ## Descripción del Proyecto
 Código de Arduino que controla una secuencia de luces LED en 8 pines digitales.
